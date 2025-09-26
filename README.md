@@ -20,6 +20,17 @@ git branch -m main
 git push -u origin main
 ```
 
+# Crear el archivo
+
+
+
+
+
+
+
+
+
+
 # 📝 Ejercicios de ramas en Git
 
 Este documento contiene diferentes ejercicios prácticos para aprender y reforzar el trabajo con **ramas en Git**.  
