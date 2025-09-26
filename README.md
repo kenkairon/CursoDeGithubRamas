@@ -1,5 +1,5 @@
 # Creación de Ramas
-![imagen](image/nombreimagen.png)
+
 ## Primero creamos  
 1. En GitHub, haz clic en **New**`
 2. Nombre: `CursoDeGithubRamas`
